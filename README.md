@@ -1,3 +1,8 @@
+### Notes
+* list ALL directories according to their size?
+  * `du -s */ .*/ | sort -n`
+
+### from Fork
 [![File issues here](https://img.shields.io/badge/Flutter%20for%20web-File%20new%20issue-orange.svg)][issue tracker]
 [![Gitter chat](https://badges.gitter.im/flutter/flutter_web.png)](https://gitter.im/flutter/flutter_web)
 
