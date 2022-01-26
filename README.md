@@ -1,4 +1,10 @@
 ### Notes
+* procedure
+ ```
+ cd (example)
+ pub get
+ webdev serve --release
+ ```
 * list ALL directories according to their size?
   * `du -sh */ .*/ | sort -n`
 
