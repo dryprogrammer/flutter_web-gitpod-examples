@@ -1,6 +1,6 @@
 image:
   file: .gitpod.Dockerfile
-workspaceLocation: flutter_web/examples/hello_world
+workspaceLocation: flutter_web-gitpod-examples/examples/hello_world
 tasks:
 - init: >
     flutter packages pub global activate webdev &&
